@@ -23,4 +23,5 @@ class DisplayPurchases extends Component {
   }
 }
 
+
 export default DisplayPurchases
